@@ -1,3 +1,78 @@
 [submodule "Marshall-Rosenberg-NVC"]
 	path = Marshall-Rosenberg-NVC
 	url = https://github.com/cognitivetech/Marshall-Rosenberg-NVC.git
+[submodule "ollama-ebook-summary"]
+	path = ollama-ebook-summary
+	url = https://github.com/cognitivetech/ollama-ebook-summary.git
+[submodule "llm-research-summaries"]
+	path = llm-research-summaries
+	url = https://github.com/cognitivetech/llm-research-summaries.git
+[submodule "David-Burns-Feeling-Good-TEAM-CBT"]
+	path = David-Burns-Feeling-Good-TEAM-CBT
+	url = https://github.com/cognitivetech/David-Burns-Feeling-Good-TEAM-CBT.git
+[submodule "Psychology-Summaries"]
+	path = Psychology-Summaries
+	url = https://github.com/cognitivetech/Psychology-Summaries.git
+[submodule "Emotional-Intelligence-Curated"]
+	path = Emotional-Intelligence-Curated
+	url = https://github.com/cognitivetech/Emotional-Intelligence-Curated.git
+[submodule "CBT-Cognitive-Behavioral-Therapy"]
+	path = CBT-Cognitive-Behavioral-Therapy
+	url = https://github.com/cognitivetech/CBT-Cognitive-Behavioral-Therapy.git
+[submodule "Adult-Development-Immunity-to-Change"]
+	path = Adult-Development-Immunity-to-Change
+	url = https://github.com/cognitivetech/Adult-Development-Immunity-to-Change.git
+[submodule "Anti-Racist-Curriculum"]
+	path = Anti-Racist-Curriculum
+	url = https://github.com/cognitivetech/Anti-Racist-Curriculum.git
+[submodule "developmental-attachment"]
+	path = developmental-attachment
+	url = https://github.com/cognitivetech/developmental-attachment.git
+[submodule "productivity"]
+	path = productivity
+	url = https://github.com/cognitivetech/productivity.git
+[submodule "Values-Work"]
+	path = Values-Work
+	url = https://github.com/cognitivetech/Values-Work.git
+[submodule "tpot-summaries"]
+	path = tpot-summaries
+	url = https://github.com/cognitivetech/tpot-summaries.git
+[submodule "Quantum-Consciousness_Microtubules_Orch-OR"]
+	path = Quantum-Consciousness_Microtubules_Orch-OR
+	url = https://github.com/cognitivetech/Quantum-Consciousness_Microtubules_Orch-OR.git
+[submodule "psych-101"]
+	path = psych-101
+	url = https://github.com/cognitivetech/psych-101.git
+[submodule "curating-metoo-for-men"]
+	path = curating-metoo-for-men
+	url = https://github.com/cognitivetech/curating-metoo-for-men.git
+[submodule "restorative-justice"]
+	path = restorative-justice
+	url = https://github.com/cognitivetech/restorative-justice.git
+[submodule "organizational-culture"]
+	path = organizational-culture
+	url = https://github.com/cognitivetech/organizational-culture.git
+[submodule "conciousness-expanding"]
+	path = conciousness-expanding
+	url = https://github.com/cognitivetech/conciousness-expanding.git
+[submodule "vipassana-metta"]
+	path = vipassana-metta
+	url = https://github.com/cognitivetech/vipassana-metta.git
+[submodule "universal-love"]
+	path = universal-love
+	url = https://github.com/cognitivetech/universal-love.git
+[submodule "memetics-research-summaries"]
+	path = memetics-research-summaries
+	url = https://github.com/cognitivetech/memetics-research-summaries.git
+[submodule "frequency-health-science"]
+	path = frequency-health-science
+	url = https://github.com/cognitivetech/frequency-health-science.git
+[submodule "divine-feminine"]
+	path = divine-feminine
+	url = https://github.com/cognitivetech/divine-feminine.git
+[submodule "prefrontal-psych"]
+	path = prefrontal-psych
+	url = https://github.com/cognitivetech/prefrontal-psych.git
+[submodule "foundation"]
+	path = foundation
+	url = https://github.com/cognitivetech/foundation.git
