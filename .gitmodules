@@ -1,0 +1,3 @@
+[submodule "Marshall-Rosenberg-NVC"]
+	path = Marshall-Rosenberg-NVC
+	url = https://github.com/cognitivetech/Marshall-Rosenberg-NVC.git
